@@ -10,3 +10,5 @@ Ce dépôt contient les notebooks du stage :
 (+) facile
 (++) intermédiaire
 (+++) difficile
+
+Vous trouverez également un notebook pour tester votre environnement et vos connaissances de la librairie numpy.
